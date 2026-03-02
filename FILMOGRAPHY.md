@@ -10,63 +10,75 @@ Confirmed appearances of the stock lightning bolt that originated in *Bride of F
 
 ## Bride of Frankenstein (1935)
 
+<img align="right" width="50%" src="images/bride_of_frankenstein_1935.jpg">
+
 **Universal** | bw
 
 First known occurrence. Released April 19, 1935. Somewhat less bright than later uses. Appears in both left-facing and right-facing (mirrored) versions during the creation sequence.
 
 [YouTube clip](https://youtu.be/lmA0Vm8UFdI)
 
-![Bride of Frankenstein](images/bride_of_frankenstein_1935.jpg)
+<br clear="both">
 
 ---
 
 ## The Raven (1935)
 
+<img align="right" width="50%" src="images/the_raven_1935.jpg">
+
 **Universal** | bw
 
 At 39:37, as guests are shown to their rooms. Similar to the *Top Hat* version — both are brighter than the original *Bride* appearance. Visual effects by John P. Fulton. Released July 9, 1935. Uses different clouds than *Bride of Frankenstein*.
 
-![The Raven](images/the_raven_1935.jpg)
+<br clear="both">
 
 ---
 
 ## Top Hat (1935)
 
+<img align="right" width="50%" src="images/top_hat_1935.jpg">
+
 **RKO** | bw
 
 Released August 29, 1935. Appears during the singing-in-the-rain/gazebo sequence. Notable as the earliest non-Universal use — how it got to a rival studio is unknown. Uses the brighter version also seen in *The Raven*.
 
-![Top Hat](images/top_hat_1935.jpg)
+<br clear="both">
 
 ---
 
 ## Black Doll (1938)
 
+<img align="right" width="50%" src="images/black_doll_1938.jpg">
+
 **Universal** | bw
 
 [YouTube link](https://www.youtube.com/watch?v=skyM7zInZjM)
 
-![Black Doll](images/black_doll_1938.jpg)
+<br clear="both">
 
 ---
 
 ## Son of Frankenstein (1939)
 
+<img align="right" width="50%" src="images/son_of_frankenstein_1939.png">
+
 **Universal** | bw
 
 At 11–21 minutes. Rear-projected on set, so the actors could see it. Appears several times. Found directly.
 
-![Son of Frankenstein](images/son_of_frankenstein_1939.png)
+<br clear="both">
 
 ---
 
 ## The Catman of Paris (1942)
 
+<img align="right" width="50%" src="images/catman_of_paris_1942.png">
+
 **Republic** | bw
 
 At 0:05:22. Found via Christoph Girardet. Notably, seen in negative!
 
-![The Catman of Paris](images/catman_of_paris_1942.png)
+<br clear="both">
 
 ---
 
@@ -98,21 +110,25 @@ Spotted via IMDB photos through Google image search.
 
 ## Commando Cody: Sky Marshal of the Universe (1953)
 
+<img align="right" width="50%" src="images/commando_cody_1953.png">
+
 **Republic Pictures** | bw
 
 Serial. Episode 3, after rocket launch (about 21 minutes in). Also at the start of Episode 4, and probably several other episodes. Found directly.
 
-![Commando Cody](images/commando_cody_1953.png)
+<br clear="both">
 
 ---
 
 ## Bride of the Monster (1955)
 
+<img align="right" width="50%" src="images/bride_of_the_monster_1955.png">
+
 **Rolling M Productions** | bw
 
 After the title card. Ed Wood must have had some fondness for *Bride of Frankenstein* — he stuck this lightning bolt right after his own name.
 
-![Bride of the Monster](images/bride_of_the_monster_1955.png)
+<br clear="both">
 
 ---
 
@@ -134,31 +150,37 @@ Spotted on Reddit by user little_colored_dots. Also found by Christoph Girardet.
 
 ## Portrait in Black (1960)
 
+<img align="right" width="50%" src="images/portrait_in_black_1960.png">
+
 **Universal** | bluesky
 
 At 20:39. From Christoph Girardet. **Earliest known "BlueSky" appearance.** Uncropped, stretched to 2:1 aspect ratio. Directed by Michael Gordon. The scene immediately preceding has odd color cycling (purple to brown) in all versions found — unclear if this is damage or an intentional lighting choice. Found on the Internet Archive.
 
-![Portrait in Black](images/portrait_in_black_1960.png)
+<br clear="both">
 
 ---
 
 ## Reptilicus (1961)
 
+<img align="right" width="50%" src="images/reptilicus_1961.png">
+
 **Saga Studios (Denmark)** | bluesky
 
 Found while watching Netflix — see *MST3K: The Return* S1E1. Uses the BlueSky background plate, but the animation is very simple: a one-second shot with two strobes, possibly working from a still frame of Universal film stock.
 
-![Reptilicus](images/reptilicus_1961.png)
+<br clear="both">
 
 ---
 
 ## Twice Told Tales (1963)
 
+<img align="right" width="50%" src="images/twice_told_tales_1963.png">
+
 **Admiral Pictures**
 
 At 00:01:43. From Christoph Girardet, found copy on Internet Archive. During the opening Vincent Price narration, one of several lightning bolts over the same cloud background. Not the BlueSky variant.
 
-![Twice Told Tales](images/twice_told_tales_1963.png)
+<br clear="both">
 
 ---
 
@@ -180,21 +202,25 @@ Used in the original opening theme. Removed before broadcast. Found via Google I
 
 ## Jesse James Meets Frankenstein's Daughter (1966)
 
+<img align="right" width="50%" src="images/jesse_james_meets_frankensteins_daughter_1966.png">
+
 **Embassy Pictures**
 
 First of three appearances at 3:58 (left/right versions). Not BlueSky. Several others throughout the film. A Cosmic Ray Diffuser is visible on set! Found while searching the Kenneth Strickfaden filmography via his biography.
 
-![Jesse James Meets Frankenstein's Daughter](images/jesse_james_meets_frankensteins_daughter_1966.png)
+<br clear="both">
 
 ---
 
 ## The Big Valley, S2E25 "Plunder" (1967)
 
+<img align="right" width="50%" src="images/big_valley_1967.png">
+
 **bluesky**
 
 At the beginning of the episode.
 
-![The Big Valley](images/big_valley_1967.png)
+<br clear="both">
 
 ---
 
@@ -208,11 +234,13 @@ Three times beginning at 1:24:50. Produced by Roger Corman.
 
 ## Dark Shadows, S23E34 — Episodes 1136/1137 (1970)
 
+<img align="right" width="50%" src="images/dark_shadows_1970.png">
+
 **Dan Curtis Productions**
 
 Not the BlueSky background. Likely appears in several other episodes as well.
 
-![Dark Shadows](images/dark_shadows_1970.png)
+<br clear="both">
 
 ---
 
@@ -224,31 +252,37 @@ Short art film by Kenneth Anger. The bolt is superimposed over another shot.
 
 ## The Victim (1972)
 
+<img align="right" width="50%" src="images/the_victim_1972.jpeg">
+
 **bluesky**
 
 TV movie starring Elizabeth Montgomery. Image found on IMDB via Google image search.
 
-![The Victim](images/the_victim_1972.jpeg)
+<br clear="both">
 
 ---
 
 ## Columbo, S1E6 "Short Fuse" (1972)
 
+<img align="right" width="50%" src="images/columbo_s1e6_1972.png">
+
 **Universal TV** | bluesky
 
 At 00:14:15. Roddy McDowall in a car smoking a cigar. Found directly.
 
-![Columbo](images/columbo_s1e6_1972.png)
+<br clear="both">
 
 ---
 
 ## Phantom of the Paradise (1974)
 
+<img align="right" width="50%" src="images/phantom_of_the_paradise_1974.png">
+
 **Harbor Productions**
 
 Seen above Swan's mansion at 1:10:15, possibly elsewhere in the movie. An unusual instance in which it didn't fill the screen — cleverly inserted into a wider shot. Found directly.
 
-![Phantom of the Paradise](images/phantom_of_the_paradise_1974.png)
+<br clear="both">
 
 ---
 
@@ -262,23 +296,29 @@ TV movie. At 27:33. Full video on YouTube. Photo is very high contrast — used 
 
 ## The Incredible Hulk (1978)
 
+<img align="right" width="50%" src="images/incredible_hulk_1978_a.png">
+
 **Universal TV**
 
 Opening credits. Heavily overexposed, with a custom background (not BlueSky). Reused in *She-Hulk* (2022).
 
-![The Incredible Hulk - A](images/incredible_hulk_1978_a.png)
+<br clear="both">
 
-![The Incredible Hulk - B](images/incredible_hulk_1978_b.png)
+<img align="right" width="50%" src="images/incredible_hulk_1978_b.png">
+
+<br clear="both">
 
 ---
 
 ## The Six Million Dollar Man, S5E18 "Dead Ringer" (1978)
 
+<img align="right" width="50%" src="images/six_million_dollar_man_1978.jpg">
+
 **Universal TV** | bluesky
 
 Opens the episode. Found via TinEye reverse image search.
 
-![The Six Million Dollar Man](images/six_million_dollar_man_1978.jpg)
+<br clear="both">
 
 ---
 
@@ -292,21 +332,27 @@ Effect used during the episode, as Hulk saves a woman (Kathryn Leigh Scott) from
 
 ## Elvira's Movie Macabre (1981)
 
+<img align="right" width="50%" src="images/elvira_1981_a.png">
+
 Opening credits, along with other Universal stock footage.
 
-![Elvira's Movie Macabre - A](images/elvira_1981_a.png)
+<br clear="both">
 
-![Elvira's Movie Macabre - B](images/elvira_1981_b.png)
+<img align="right" width="50%" src="images/elvira_1981_b.png">
+
+<br clear="both">
 
 ---
 
 ## Murder, She Wrote, S1E21 "Funeral at Fifty Mile" (1985)
 
+<img align="right" width="50%" src="images/murder_she_wrote_s1e21_1985.png">
+
 **Universal TV** | bluesky
 
 About one-third into the episode. Found by a Redditor. Depicts a daytime storm.
 
-![Murder, She Wrote S1E21](images/murder_she_wrote_s1e21_1985.png)
+<br clear="both">
 
 ---
 
@@ -328,29 +374,35 @@ At 00:02:30. Spotted by Christoph Girardet.
 
 ## Moonlighting, S3E10 "Poltergeist III: Dipesto Nothing" (1987)
 
+<img align="right" width="50%" src="images/moonlighting_s3e10_1987.png">
+
 **ABC Circle Films / Picturemaker** | bluesky
 
 Spotted by ridgerooms on Threads. At 21:25 (unreversed) and 22:29 (unreversed).
 
-![Moonlighting](images/moonlighting_s3e10_1987.png)
+<br clear="both">
 
 ---
 
 ## Murder, She Wrote, S3E13 "Crossed Up" (1987)
 
+<img align="right" width="50%" src="images/murder_she_wrote_s3e13_1987.png">
+
 **Universal TV** | bluesky
 
 At 00:04:00. Found by a Redditor.
 
-![Murder, She Wrote S3E13](images/murder_she_wrote_s3e13_1987.png)
+<br clear="both">
 
 ---
 
 ## Book of Days (1988)
 
+<img align="right" width="50%" src="images/book_of_days_1988.png">
+
 Film by performance artist Meredith Monk. Excerpt on YouTube. Not the BlueSky variant.
 
-![Book of Days](images/book_of_days_1988.png)
+<br clear="both">
 
 ---
 
@@ -388,13 +440,15 @@ At 34:41. Also in the preview. Spotted by jbum.
 
 ## Die Entstehung von Gewittern (2015)
 
+<img align="right" width="50%" src="images/die_entstehung_von_gewittern_2015.png">
+
 "The Formation of Thunderstorms" — Educational German film. | bluesky
 
 At 00:39. Found via TinEye. Possibly using current Universal stock footage.
 
 [schulfilme.com](https://www.schulfilme.com/filme/gewitter-entstehung.html)
 
-![Die Entstehung von Gewittern](images/die_entstehung_von_gewittern_2015.png)
+<br clear="both">
 
 ---
 
