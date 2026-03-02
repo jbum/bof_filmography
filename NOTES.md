@@ -16,6 +16,8 @@ Eleven years later, Glut's *The Frankenstein Catalog* (1984) changed the attribu
 
 This was later quoted verbatim in Picart, Smoot & Blodgett's *The Frankenstein Film Sourcebook* (2001), p. 40, which is the source for the Wikipedia citation on the *Bride of Frankenstein* article.
 
+While I (jbum) would very much LIKE for Strickfaden to be the source of this shot, I think at this late date, it's hard to know for sure, given that we only have the single source, and Glut has provided differing accounts.
+
 ### Strickfaden's Claim
 
 Kenneth Strickfaden supplied the electrical apparatus (Tesla coils, Jacob's ladders, etc.) seen in the Frankenstein films. By the time of Glut's 1984 book, Strickfaden was elderly (he died in 1984) and personally took credit for the lightning bolt.
@@ -24,11 +26,11 @@ In personal correspondence, Don Glut confirmed:
 
 > Ken told me personally that he did the lightning bolt. I now think it was simply a cut-out with a flashing light behind it. But I think I saw it in an earlier film than BRIDE, a Fred Astaire movie released the year before.
 
-That Astaire film is *Top Hat* (1935), which was actually produced a few months *after* Bride. The bolt appears in the singing-in-the-rain/gazebo sequence.
+Glut was mistaken about the Astaire movie. The Astaire film is RKO's *Top Hat* (1935), which was actually released a few months *after* Bride. The bolt appears in the singing-in-the-rain/gazebo sequence. This was not a Universal movie, and  there do not appear to be any common effects people in the credits. Somehow the lightning bolt got used?
 
 ### John P. Fulton
 
-The special photographic effects for *Bride of Frankenstein* were by John P. Fulton, who headed Universal's effects department. Fulton (or his team) is arguably the more likely creator of the shot. Fulton also worked on *The Raven* (1935), the second film to use the bolt.
+The special photographic effects for *Bride of Frankenstein* were by John P. Fulton, who headed Universal's effects department. Fulton (or his team) is arguably the more likely creator or co-creator of the shot. Fulton also worked on *The Raven* (1935), the second film to use the bolt.
 
 Fulton provided photographic effects on several other 1935 Universal films, including *Storm Over the Andes* (which precedes *Bride*), *Princess O'Hara*, *Mister Dynamite*, and others. RKO's *Top Hat* shares no obvious personnel with Universal — its special effects were by Harry Redmond Jr and Sr (practical) and Vernon L. Walker (visual/post).
 
@@ -62,7 +64,7 @@ The lightning itself is static — it only changes in brightness. This suggests 
 
 ### What It Is
 
-Starting around 1960, the bolt is frequently composited with a specific cloud background plate. This composite comes in several color tints depending on whether the scene depicts day, night, or rain. The bolt generally appears in the same position relative to the clouds, with the hook on the upper right.
+Starting around 1960, the bolt is frequently composited with a specific cloud background plate, which I call "BlueSky" in the filmography. This composite comes in several color tints depending on whether the scene depicts day, night, or rain. The bolt generally appears in the same position relative to the clouds, with the hook on the upper right.  Ostensibly there was likely one original composite shot, and the others were tinted using filters.  It is unknown which movie this "blusky" shot first appeared in.
 
 ### Earliest Known Instance
 

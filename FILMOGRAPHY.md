@@ -134,7 +134,7 @@ After the title card. Ed Wood must have had some fondness for *Bride of Frankens
 
 ## The She Creature (1956)
 
-**American International**
+**American International** | bw
 
 Also spotted by Christoph Girardet.
 
@@ -142,7 +142,7 @@ Also spotted by Christoph Girardet.
 
 ## Attack of the Crab Monsters (1957)
 
-**Los Altos Productions**
+**Los Altos Productions** | bw
 
 Spotted on Reddit by user little_colored_dots. Also found by Christoph Girardet.
 
@@ -196,7 +196,7 @@ At 1:14:13. 2:1 aspect ratio. From Christoph Girardet.
 
 **CBS** | bw
 
-Used in the original opening theme. Removed before broadcast. Found via Google Images.
+Used in the original opening theme. Removed before broadcast, and NOT used in the opening theme during the series. Found via Google Images.
 
 ---
 
@@ -206,7 +206,7 @@ Used in the original opening theme. Removed before broadcast. Found via Google I
 
 **Embassy Pictures**
 
-First of three appearances at 3:58 (left/right versions). Not BlueSky. Several others throughout the film. A Cosmic Ray Diffuser is visible on set! Found while searching the Kenneth Strickfaden filmography via his biography.
+First of three appearances at 3:58 (left/right versions). Not BlueSky. Several others throughout the film. A Strickfaden Cosmic Ray Diffuser is visible on set! Found while searching the Kenneth Strickfaden filmography via his biography.
 
 <br clear="both">
 
@@ -256,7 +256,7 @@ Short art film by Kenneth Anger. The bolt is superimposed over another shot.
 
 **bluesky**
 
-TV movie starring Elizabeth Montgomery. Image found on IMDB via Google image search.
+TV movie starring Elizabeth Montgomery. Image found on IMDB via Google image search. Probably Universal TV?
 
 <br clear="both">
 
@@ -331,6 +331,8 @@ Effect used during the episode, as Hulk saves a woman (Kathryn Leigh Scott) from
 ---
 
 ## Elvira's Movie Macabre (1981)
+
+**KHJ TV**
 
 <img align="right" width="50%" src="images/elvira_1981_a.png">
 
@@ -464,4 +466,4 @@ Self-produced film. Unconfirmed, but Glut says it's in there. He mentioned using
 
 **Disney**
 
-Reuse of the *Incredible Hulk* footage from the 1978 opening credits. Found watching Disney+.
+Reuse of the *Incredible Hulk* footage from the 1978 opening credits. Found watching Disney+.  **Last known use in a commercial movie/tv production**
