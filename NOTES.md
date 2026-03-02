@@ -78,13 +78,15 @@ Several versions of this composite are sold through Getty Images as part of the 
 |---|---|---|---|---|---|
 | 120462284 | darkstretch | 0:16 | Yes | No | Stretched to fill aspect ratio, shows more of the upper bolt/hook |
 | 1204621893 | yellowrain | 0:13 | Yes | Yes | Strong yellow tint, lighter sky, added rain |
-| 1204621837 | bluesky | 0:16 | Yes | Yes | Blue tint, heavy rain — the most common version |
+| 1204621837 | bluesky | 0:16 | Yes | Yes | Blue tint, heavy rain — a very common coloring |
 | 1204237501 | darknostretch | 0:13 | Yes | No | Similar to darkstretch but not stretched |
 | 1204205807 | darkmoon | 0:13 | No | No | Alternate background with moon and swift clouds, spooky |
 
 ### Animation Timing
 
 The animation is fairly simple. The "BlueSky" and "darkstretch" versions have two quick fullscreen flashes about 3 seconds in, a pause from 5–11 seconds, then another sequence. Most Universal TV shows from the 1970s–80s show two main luminance cycles with sub-strobing and a ~45-frame gap between strikes. Sometimes only half the shot is used. The *Reptilicus* version is the simplest — a one-second shot with just two strobes.
+
+It is common for a single frames of pure white or some other light color to be inserted to create a "blinding" effect during the animation.  Some appearances use this, some don't.
 
 ---
 
