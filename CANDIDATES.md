@@ -1,6 +1,6 @@
 # Candidates
 
-Films and shows suspected or reported to contain the Bride of Frankenstein lightning bolt, but not yet confirmed. If you can verify any of these, please [open an issue](../../issues)!
+Films and shows suspected or reported to contain the Bride of Frankenstein lightning bolt, but not yet confirmed. If you can verify any of these, please [open an issue](../../issues) or submit a PR!
 
 See also: [RULED_OUT.md](RULED_OUT.md) for films already examined and confirmed to NOT contain the bolt.
 
@@ -11,6 +11,7 @@ See also: [RULED_OUT.md](RULED_OUT.md) for films already examined and confirmed 
 From the list provided by artist Christoph Girardet, whose timecodes are often inaccurate (sometimes off by minutes or more).
 
 - **Games** (1967) — Universal, Katherine Ross movie. 00:22:10 (Girardet timecode). Unconfirmed but almost certainly has it — BlueSky bolt visible in the trailer. Appears to be a rare and probably terrible movie. Available for rent on YouTube: [trailer](https://youtu.be/odLUlS6F6iM?si=dIKHhnJjifzAcVpx)
+
 - **Dead of Night** (1945) — British, Ealing Studios. Probably not, but unchecked.
 
 ## I Dream of Jeannie
