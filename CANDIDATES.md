@@ -32,7 +32,7 @@ These films used Strickfaden's electrical equipment and could potentially contai
 
 ## Post-Bride Strickfaden Films
 
-Films that used Strickfaden equipment after 1935 and haven't been checked for the bolt.
+Films that used Strickfaden equipment after 1935 and haven't been checked for the bolt.  This almost certainly have visible Strickfaden equipment, but are mostly unlikely to contain the lightning bolt itself.
 
 - **Night Key** (1937) — Karloff. Only trailers found on YouTube.
 - **The Chewing Gum Fan** (1939) — Not found.
@@ -53,7 +53,7 @@ Films that used Strickfaden equipment after 1935 and haven't been checked for th
 
 ## Reported Sightings (Unconfirmed)
 
-These have been reported by various people but not yet verified.
+These have been reported by various people, mostly on Reddit, but not yet verified. Many reported sightings tend to be generic lightning, and not the BOF lightning.
 
 | Title | Notes |
 |---|---|
