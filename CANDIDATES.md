@@ -8,11 +8,11 @@ See also: [RULED_OUT.md](RULED_OUT.md) for films already examined and confirmed 
 
 ## Christoph Girardet Leads
 
-From the list provided by artist Christoph Girardet, whose timecodes are often inaccurate (sometimes off by minutes or more).
+These are strong leads from the list provided by artist Christoph Girardet. Note that his artwork is captioned with the name of the movie and time codes, but his time codes appear to be wholly invented, and often have no relationship to the actual position of the lightning bolt in the movie or show.
 
 - **Games** (1967) — Universal, Katherine Ross movie. 00:22:10 (Girardet timecode). Unconfirmed but almost certainly has it — BlueSky bolt visible in the trailer. Appears to be a rare and probably terrible movie. Available for rent on YouTube: [trailer](https://youtu.be/odLUlS6F6iM?si=dIKHhnJjifzAcVpx)
 
-- **Dead of Night** (1945) — British, Ealing Studios. Probably not, but unchecked.
+- **Dead of Night** (1945) — British, Ealing Studios. 
 
 ## I Dream of Jeannie
 
